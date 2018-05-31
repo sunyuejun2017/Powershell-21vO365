@@ -1,9 +1,0 @@
-{
-    "AppId": {
-      "ClientId": "d786bd1e-041b-4ccd-aa02-3f46c62e265c",
-      "ClientSecret": "WgRskLCnvCmgdwTNEF24eJoq7HWxSF4u+2XdOBsNI0c=",
-      "RedirectUrl": "https://helloapp.com",
-      "ResourceUrl": "https://microsoftgraph.chinacloudapi.cn",
-      "tenantid":"51o365.partner.onmschina.cn"
-    }
-  }
